@@ -1,0 +1,28 @@
+{
+  "name": "asynctimeout",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonraa/asynctimeout.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "await",
+    "timeout",
+    "javascript",
+    "js",
+    "node"
+  ],
+  "author": "anonraa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anonraa/asynctimeout/issues"
+  },
+  "homepage": "https://github.com/anonraa/asynctimeout#readme"
+}
